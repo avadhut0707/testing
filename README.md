@@ -1,2 +1,2 @@
 # testing
-Learining frontend skills
+Learining frontend
